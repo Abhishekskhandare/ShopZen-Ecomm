@@ -23,7 +23,7 @@ export class SellerAuthComponent implements OnInit {
     this.seller.userSignUp(data).subscribe((result)=>{
       if(result)
       {
-        this.router.navigate([''])
+        this.router.navigate(['seller-home'])
       }
     });
   }
