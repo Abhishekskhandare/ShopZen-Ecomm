@@ -1,0 +1,22 @@
+{
+  "seller": [
+    {
+      "name": "abhishek khandare",
+      "password": "Abhishek@123",
+      "email": "Abishek@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ganesh kawale",
+      "password": "Ganesh@123",
+      "email": "Ganesh@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Abhishek Shailendra",
+      "password": "uyghbn",
+      "email": "abhishek.s.khandare@outlook.com",
+      "id": 3
+    }
+  ]
+}
