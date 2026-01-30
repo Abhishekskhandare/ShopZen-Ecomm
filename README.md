@@ -56,5 +56,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 ## Additional Resources
 for database : https://github.com/typicode/json-server
-
+to start this server : open cmd where that db.json file exist and hit 
+```bash
+json-server --watch db.json
+```
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
